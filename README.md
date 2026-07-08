@@ -32,3 +32,7 @@ aplikasi-kasir-python/
 ├── README.md
 └── screenshots/
     └── tampilan-aplikasi.png
+
+## 📸 Screenshot
+
+![Tampilan Aplikasi](screenshots/tampilan-aplikasi.png)
