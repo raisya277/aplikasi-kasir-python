@@ -33,6 +33,7 @@ aplikasi-kasir-python/
 └── screenshots/
     └── tampilan-aplikasi.png
 
-## 📸 Screenshot
+
+## Screenshots
 
 ![Tampilan Aplikasi](screenshots/tampilan-aplikasi.png)
